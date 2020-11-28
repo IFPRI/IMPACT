@@ -1,0 +1,21 @@
+Parameter Specifications
+
+IMPACT3_IPRsAgrs.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_IPRsAgrs.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter AnmlGR Exogenous growth rates for livestock herd size
+Index order = 3 | 1 2 4
+Filter = urban
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_IPRsAgrs.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter AREAGR Exogenous 5-yr area growth by FPU and land type
+Index order = 1 2 3 4
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_IPRsAgrs.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter LNDGR Exogenous 5-yr land growth by FPU and land type
+Index order = 1 2 3
+No filter active

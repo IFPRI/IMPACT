@@ -1,0 +1,54 @@
+Parameter Specifications
+
+IMPACT3_TradeParameters.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter CSE
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter MM
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter MME_1
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter MMJ_1
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter MMM_1
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter PSE
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter TE export tax (%)
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_TradeParameters.gdx
+Date: 09-Apr-15 4:11:18 PM
+Parameter TM import tax (%)
+Index order = 1 2
+No filter active
+
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PW.xlsx is a special file with additional calculations for price wedges between wheat and maize

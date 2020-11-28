@@ -1,0 +1,45 @@
+Parameter Specifications
+
+IMPACT3_DemandElasticities.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter BFDmdPElas Biofuels Demand Price Elasticity
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter ExogFDDmdElasH Exogenous annual own-price elasticities
+Index order = 3 1 | 2 4 5
+Filter = urban I3
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter ExogIncDmdElasH Exogenous annual income elasticities
+Index order = 3 1 | 2 4 5
+Filter = urban I3
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter FdElasH Price elasticities in base year
+Index order = 4 1 | 2 3 5
+Filter = urban I3
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter IncDmdElasH Income elasticities in base year
+Index order = 3 1 | 2 4
+Filter = urban I3
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter OthDmdIElas Other Demand Income Elasticity
+Index order = 1 2
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_DemandElasticities.gdx
+Date: 27-Mar-16 7:27:02 PM
+Parameter OthDmdPElas Other Demand Price Elasticity
+Index order = 1 2 3
+No filter active

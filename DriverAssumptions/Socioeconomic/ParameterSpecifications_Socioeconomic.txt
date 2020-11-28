@@ -1,0 +1,27 @@
+Parameter Specifications
+
+IMPACT3_PopGDP.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PopGDP.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter gdp Total GDP for IMPACT
+Index order = 1 2 3 4
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PopGDP.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter gdpIMPgr GDP growth rates
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PopGDP.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter pop Total Population for IMPACT
+Index order = 1 2 3 4
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PopGDP.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter popIMPgr Population growth rates
+Index order = 1 2 3
+No filter active

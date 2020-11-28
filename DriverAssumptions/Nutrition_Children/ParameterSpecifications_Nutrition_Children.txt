@@ -1,0 +1,9 @@
+Parameter Specifications
+
+Pending
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_PopGDP.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter pop05 Ratio of population that is under 5
+Index order = 1 2 3
+No filter active

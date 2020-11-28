@@ -1,0 +1,39 @@
+Parameter Specifications
+
+IMPACT3_SupplyElasticities.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter AnmlFeedElas Animal feed supply elasticities
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter AreaElas Area elasticity without cross price elasticities
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter FEEDELAS Livestock feed demand elasticity
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter LvstElas Animal supply elasticities
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter YLDELAS Yield elasticity wrt to land price
+Index order = 1 2 3
+No filter active
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter YLDELASWF Yield elasticity wrt to other input prices
+Index order = 1 2 3 4
+No filter active

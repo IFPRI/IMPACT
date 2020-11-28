@@ -1,0 +1,9 @@
+Parameter Specifications
+
+IMPACT3_CCData.gdx
+
+File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_CCData.gdx
+Date: 01-Jun-16 9:26:28 AM
+Parameter CCDelta CC deltas adjusted to be a multiplier for IMPACT 3
+Index order = 4 | 1 2 3 5 6 7
+Filter = base

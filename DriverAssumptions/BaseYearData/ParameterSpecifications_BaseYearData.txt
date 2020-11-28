@@ -1,0 +1,21 @@
+Parameter Specifications
+
+IMPACT3_BaseProductionTrade.gdx
+
+File: C:\Users\TSULSER\Dropbox (IFPRI)\Everything\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_BaseProductionTrade.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter BASECTY Stores base year values from entropy to be disaggregated to FPU
+Index order = 1 2 3
+No filter active
+
+File: C:\Users\TSULSER\Dropbox (IFPRI)\Everything\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_BaseProductionTrade.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter BASEFPU Dissagregated FAO to lnd typ and fpu
+Index order = 1 2 3 4
+No filter active
+
+File: C:\Users\TSULSER\Dropbox (IFPRI)\Everything\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_BaseProductionTrade.gdx
+Date: 03-Mar-16 9:39:44 AM
+Parameter BASEFPUL
+Index order = 3 | 1 2 4
+Filter = Urban
