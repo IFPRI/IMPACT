@@ -1,4 +1,4 @@
-# IMPACT
+# International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT)
 
 *>>> Repository for IFPRI's IMPACT model driver assumptions
 

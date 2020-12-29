@@ -1,0 +1,8 @@
+Parameter Specifications
+
+This folder holds special collections of files for specific studies
+
+Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Wiebe_et_al_2021
+Special files for Wiebe et al (2021)
+[insert full citation with final url here]
+

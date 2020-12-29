@@ -1,0 +1,15 @@
+Notes on data files used for tables and figures in Wiebe et al 2021 (insert final url here)
+
+Figure 1 - Conceptual framework, no further files required
+Figure 2 - Simple geographic map, no further files required
+Figure 3 - Nutrient maps from G Nelson, see references noted in main paper
+Figure 4 - Nutrient maps from G Nelson, see references noted in main paper
+Figure 5 - Excel file (Figure_5_final.v2-to-share.xlsx)
+
+Table 1 - Simple table, no further files required
+Table 2 - Simple table, no further files required
+Table 3abc - Excel file (Table_3abc_final-to-share.xlsx)
+Table 4abc - Excel file (Table_4abc_final-to-share.xlsx)
+Table 5 - Excel file (Table_5_final.v2-to-share.xlsx)
+Table 6 - Nutrient analysis from G Nelson, see references noted in main paper
+Table 7 - Excel file (Table_7source_final.v2-to-share.xlsx and Table_3a-partial_final-extended-to-share.xlsx)
