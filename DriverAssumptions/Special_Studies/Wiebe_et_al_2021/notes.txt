@@ -4,7 +4,7 @@ Figure 1 - Conceptual framework, no further files required
 Figure 2 - Simple geographic map, no further files required
 Figure 3 - Nutrient maps from G Nelson, see references noted in main paper
 Figure 4 - Nutrient maps from G Nelson, see references noted in main paper
-Figure 5 - Excel file (Figure_5_final.v2-to-share.xlsx)
+Figure 5 - Excel file (Figure_5_final.v3-to-share.xlsx)
 
 Table 1 - Simple table, no further files required
 Table 2 - Simple table, no further files required
