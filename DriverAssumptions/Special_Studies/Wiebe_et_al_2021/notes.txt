@@ -1,4 +1,4 @@
-Notes on data files used for tables and figures in Wiebe et al 2021 (insert final url here)
+Notes on data files used for tables and figures in Wiebe et al 2021 (https://doi.org/10.1371/journal.pone.0249994)
 
 Figure 1 - Conceptual framework, no further files required
 Figure 2 - Simple geographic map, no further files required
