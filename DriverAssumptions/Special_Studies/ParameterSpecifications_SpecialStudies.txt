@@ -10,3 +10,8 @@ Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Enahoro_et_al_xxxx
 Special files for Enahoro et al (xxxx)
 [insert final doi url here]
 
+Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Kozicka_et_al_2021_and_Enahoro_et_al_2021
+Special files for Kozicka et al 2021 and Enahoro et al 2021
+[insert final doi urls here]
+
+
