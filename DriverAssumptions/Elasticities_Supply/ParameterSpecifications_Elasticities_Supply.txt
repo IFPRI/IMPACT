@@ -28,7 +28,7 @@ No filter active
 
 File: ...\IMPACT\Model\TRUNK\IMPACTv3.0\InputFiles\IMPACT3\IMPACT3_SupplyElasticities.gdx
 Date: 03-Mar-16 9:39:44 AM
-Parameter YLDELAS Yield elasticity wrt to land price
+Parameter YLDELAS Yield elasticity wrt to net price
 Index order = 1 2 3
 No filter active
 
