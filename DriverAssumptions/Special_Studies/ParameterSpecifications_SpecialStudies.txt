@@ -10,8 +10,12 @@ Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Enahoro_et_al_xxxx
 Special files for Enahoro et al (xxxx)
 [insert final doi url here]
 
-Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Kozicka_et_al_2021_and_Enahoro_et_al_2021
-Special files for Kozicka et al 2021 and Enahoro et al 2021
-[insert final doi urls here]
+Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Kozicka_et_al_2022_and_Enahoro_et_al_2023
+Special files for Kozicka et al 2022 and Enahoro et al 2023
+https://doi.org/10.1007/s11625-021-01082-y
+https://doi.org/10.1007/s10113-023-02038-x
 
+Folder: ...\GitHub\IMPACT\DriverAssumptions\Special_Studies\Petsakos_et_al_BXW
+Special files for Petsakos et al paper on BXW
+[insert final doi url here]
 
