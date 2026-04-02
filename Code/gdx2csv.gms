@@ -34,7 +34,7 @@ putclose;
 $call gdxdump %gdx% symb=BaseCTY format=csv Output=..\DriverAssumptions\BaseYearData\BaseCTY_Crops+Livestock.csv
 $call gdxdump %gdx% symb=BaseCTY_Fish format=csv Output=..\DriverAssumptions\BaseYearData\BaseCTY_Fish.csv
 $call gdxdump %gdx% symb=BaseFPU format=csv Output=..\DriverAssumptions\BaseYearData\BaseFPU_Crops.csv
-$call gdxdump %gdx% symb=BaseFPUPUL format=csv Output=..\DriverAssumptions\BaseYearData\BaseFPU_Livestock.csv
+$call gdxdump %gdx% symb=BaseFPUL format=csv Output=..\DriverAssumptions\BaseYearData\BaseFPU_Livestock.csv
 
 *ClimateImpacts_Yield
 $call gdxdump %gdx% symb=RdInCCdelta format=csv Output=..\DriverAssumptions\ClimateImpacts_Yield\CCDelta.csv
@@ -96,10 +96,10 @@ $call gdxdump %gdx% symb=TE format=csv Output=..\DriverAssumptions\Trade_Paramet
 $call gdxdump %gdx% symb=TM format=csv Output=..\DriverAssumptions\Trade_Parameters\TM.csv
 
 *Demand
-$call gdxdump %gdx% symb=WastInt format=csv Output=..\DriverAssumptions\Demand\Waste.csv
+$call gdxdump %gdx% symb=WasteInt format=csv Output=..\DriverAssumptions\Demand\Waste.csv
 $call gdxdump %gdx% symb=RdInFeedReq format=csv Output=..\DriverAssumptions\Demand\FeedRequirement.csv
 $call gdxdump %gdx% symb=QBFInt2 format=csv Output=..\DriverAssumptions\Demand\BiofuelFeedstockDemandGrowth.csv
-$call gdxdump %gdx% symb=QOthInt2 format=csv Output=..\DriverAssumptions\Demand\OtherDemandGrowth.csv
+$call gdxdump %gdx% symb=QOthrInt2 format=csv Output=..\DriverAssumptions\Demand\OtherDemandGrowth.csv
 
 *Supply
 *To be added later if needed
