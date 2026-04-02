@@ -3,13 +3,12 @@ This code is used to create .csv files of the assumptions included in the IMPACT
 to inform these outputs is v4.1.4. The SSP2-NoCC-NoCC scenario is used.
 Author: Faaiqa Hartley
 Date: April 2026
-The following folders in DriverAssumptions where not updated
-- Nutrition_Hunger (not populated previously)
-- Nutrition_Nutrients (not populated previously)
+The following folders in DriverAssumptions are pending updates
+- Nutrition_Hunger
+- Nutrition_Nutrients
 - Shapefiles
-- Correspondence files (which Sets file in the IMPACT3 folder is the correct to use, files differ slightly from what is there)
 - Special_Studies
-- WaterImpacts_Yield (not populated previously)
+- WaterImpacts_Yield
 $OFFTEXT
 
 $setglobal gdx  SSP2-NoCC-NoCC.gdx
@@ -24,7 +23,7 @@ put " "/;
 put "April 2026"/;
 put " "/;
 put "See https://www.ifpri.org/project/ifpri-impact-model/ for further information."/;
-put "The model documentation at https://cgspace.cgiar.org/items/4a89cd40-7e86-4392-88dc-464bde71a5b8 will hopefully answer many questions. Please use this before contacting IFPRI-Impact-Model@cgiar.org with any issues."/;
+put "The model documentation at https://hdl.handle.net/10568/148953 will hopefully answer many questions. Please use this before contacting IFPRI-Impact-Model@cgiar.org with any issues."/;
 put " "/;
 put "We welcome suggestions with documentation for improvements."/;
 putclose;
