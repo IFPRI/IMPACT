@@ -10,3 +10,5 @@ The model documentation at https://hdl.handle.net/10568/148953 will hopefully an
 Please use this before contacting IFPRI-Impact-Model@cgiar.org with any issues.
  
 We welcome suggestions with documentation for improvements.
+
+See `descriptions.md` for additional information about the datasets.
