@@ -1,8 +1,10 @@
 # extract_gdx_metadata.R
 # Set the three paths below, then source or run the script.
 
+# Set working directory first - same directory as gdx2scv.gms file
+# setwd("")
 gams_file   <- "gdx2csv.gms"
-gdx_file    <- "../../Global Outlook Report 2026/OutputFiles/Scenarios/SSP2-NoCC-NoCC.gdx"
+gdx_file    <- "" # Set path to IMPACT GDX file here
 output_md   <- "../description.md"
 output_csv  <- "../DriverAssumptions/domain_sets.csv"
 
