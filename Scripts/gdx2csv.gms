@@ -13,23 +13,6 @@ $OFFTEXT
 
 $setglobal gdx  SSP2-NoCC-NoCC.gdx
 
-*Generation of README*----------------------------------------------------------------------------------------------------------------
-File results / ..\README.txt /;
-put results;
-put "International Model for Policy Analysis of Agricultural Commodities and Trade (IMPACT)"/;
-put " "/;
-put "Repository for IFPRI's IMPACT model driver assumptions"/;
-put " "/;
-put "April 2026"/;
-put " "/;
-put "See https://www.ifpri.org/project/ifpri-impact-model/ for further information."/;
-put "The model documentation at https://hdl.handle.net/10568/148953 will hopefully answer many questions."/;
-put " "/;
-put "Please use this before contacting IFPRI-Impact-Model@cgiar.org with any issues."/;
-put " "/;
-put "We welcome suggestions with documentation for improvements."/;
-putclose;
-
 *Generation of .csv files--------------------------------------------------------------------------------------------------------------
 *BaseYearData
 $call gdxdump %gdx% symb=BaseCTY format=csv Output=..\DriverAssumptions\BaseYearData\BaseCTY_Crops+Livestock.csv
